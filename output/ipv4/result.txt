@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-03 18:48:40,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
+2025-08-04 06:46:46,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
 
 📺央视频道,#genre#
 CCTV-2,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
@@ -38,18 +38,12 @@ CCTV-12,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225816/i
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
-安徽卫视,http://223.241.247.214:9901/tsfile/live/0019_1.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
-广西卫视,http://221.193.168.40:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://221.193.168.254:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://1.24.190.98:10080/hls/78/index.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-江西卫视,http://111.61.236.247:9081/hls/36/index.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-天津卫视,http://221.193.168.20:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://1.24.190.98:10080/hls/86/index.m3u8
