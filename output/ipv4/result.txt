@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-16 06:25:44,http://23.237.228.134/live5/CCTV2.m3u8
+2026-02-22 18:27:10,http://23.237.228.134/live5/CCTV2.m3u8
 
 📺央视频道,#genre#
 CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
@@ -12,15 +12,13 @@ CCTV-14,http://69.30.246.194/live/cctv14.m3u8
 💰央视付费频道,#genre#
 文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+央视台球,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGlFSEVtCh-9Ni530EcUljQCH6E5SJAMpWjSFlN-tUgkUPI9wIPIerGfONRJUvt-Ql_nDddG5257iJZKmTpzexgMjx5gJiWcjpnLPX4WqfnrYDogI9XX1Y3aavEQev9ZmgkKacyMoTvQwo57Rj0Igep493HvS_P1shxrHkS8O_gRU_lqIATnPH9DK_YC-PHMI1xoDhgO231vYOO3yApXEtrw.m3u8?u=1757123819
 风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+第一剧场,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG2LV-Fr8y86yPX-J4JG9ZPn4Dr7tcnTXET7O0emdC1htlY3FarnHVRs35E47gmF_r5zKD0j-8Y_CkO7XaOrUHRMryBKv5V6GW8oVOAMhWC-c3YnqRMpzBwqW3uA7HL4mw99NaKloXHQnaFZXBrOL1MG5QsLODMr8CzkJwhwp58-dZ5ZVR2jr3gd10FyLCe6tSERm6stBobky1mSG_FET95YPbIwtCur0hhHywpbziT7Q.m3u8?u=1757123819
 风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
-风云剧场,http://dassby.qqff.top:99/live/风云剧场/index.m3u8
-风云剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221226963/86128874.smil
-风云剧场,rtsp://115.153.247.80/PLTV/88888888/224/3221226963/86128874.smil
-风云剧场,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226963/86128874.smil
-风云剧场,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000409?AuthInfo=xxx&userid=gf001&userid=gf001
 怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+高尔夫网球,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG-e3QckERZBl56YxtpoYfDGwq2hCqEtXRoH1-aNPIfwb62xpr4bS4Lh9_TUvJJYUUb7oYz-ve30vAfwpogpKGdXmWpenXLLLEPUIauWI89xWxRLLlcrfPXhagvMXr1Z9i4FStTDgAyd5IQE_lRPZyufIWsnNqaHTApBF1DulV-qDXYUlqYoUjFXbyHAtWE-DHSF_aWC2t_X9an6ben_g0wg.m3u8?u=1757123819
 高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
@@ -29,24 +27,24 @@ CCTV-14,http://69.30.246.194/live/cctv14.m3u8
 📡卫视频道,#genre#
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-浙江卫视,http://69.30.246.194/live/zjws.m3u8
 浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://69.30.246.194/live/zjws.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-湖南卫视,http://69.30.246.194/live/hnws.m3u8
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://69.30.246.194/live/hnws.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
-东方卫视,http://69.30.246.194/live/dfws.m3u8
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8
+东方卫视,http://69.30.246.194/live/dfws.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
-广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 广西卫视,http://23.237.228.134/live6/guangxi.m3u8
+广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
@@ -54,7 +52,8 @@ CCTV-14,http://69.30.246.194/live/cctv14.m3u8
 江苏卫视,http://69.30.246.194/live/jsws.m3u8
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
+陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
+西藏卫视,http://118.72.48.240:888/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
